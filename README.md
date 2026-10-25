@@ -50,6 +50,17 @@ npm start
 
 When you see `running at http://127.0.0.1:3000`, open that link in your phone's browser.
 
+## Get a Gemini API key
+
+1. Go to [Google AI Studio](https://aistudio.google.com/apikey) and sign in with your Google account.
+2. Click **Create API key**.
+3. Choose an existing Google Cloud project, or create a new one if it asks.
+4. Copy the key that appears (it usually starts with `AIza`).
+
+The free tier has rate limits, which is fine for personal use. Google may change the layout of the page, but the API key page is always at the link above.
+
+> Keep your key private. Don't post it in Discord, screenshots, or GitHub.
+
 ## Setup
 
 1. Open **Settings** in the web UI.
