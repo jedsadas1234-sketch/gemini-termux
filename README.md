@@ -7,7 +7,7 @@ A Gemini-style chat page that lets Gemini turn your requests into shell commands
 ```bash
 pkg update && pkg upgrade
 pkg install nodejs git
-git clone https://github.com/<your-username>/gemini-termux.git
+git clone https://github.com/jedsadas1234-sketch/gemini-termux.git
 cd gemini-termux
 npm install
 npm start
